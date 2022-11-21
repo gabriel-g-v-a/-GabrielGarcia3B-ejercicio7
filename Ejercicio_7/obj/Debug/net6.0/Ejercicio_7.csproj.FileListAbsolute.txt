@@ -1,0 +1,15 @@
+C:\Users\HP\OneDrive - ULEAM\Escritorio\UNIVERSIDAD\TERCER SEMESTRE\Programación orientada a objetos\C#\TareaFinalPrimerParcial\Ejercicio_7\bin\Debug\net6.0\Ejercicio_7.exe
+C:\Users\HP\OneDrive - ULEAM\Escritorio\UNIVERSIDAD\TERCER SEMESTRE\Programación orientada a objetos\C#\TareaFinalPrimerParcial\Ejercicio_7\bin\Debug\net6.0\Ejercicio_7.deps.json
+C:\Users\HP\OneDrive - ULEAM\Escritorio\UNIVERSIDAD\TERCER SEMESTRE\Programación orientada a objetos\C#\TareaFinalPrimerParcial\Ejercicio_7\bin\Debug\net6.0\Ejercicio_7.runtimeconfig.json
+C:\Users\HP\OneDrive - ULEAM\Escritorio\UNIVERSIDAD\TERCER SEMESTRE\Programación orientada a objetos\C#\TareaFinalPrimerParcial\Ejercicio_7\bin\Debug\net6.0\Ejercicio_7.dll
+C:\Users\HP\OneDrive - ULEAM\Escritorio\UNIVERSIDAD\TERCER SEMESTRE\Programación orientada a objetos\C#\TareaFinalPrimerParcial\Ejercicio_7\bin\Debug\net6.0\Ejercicio_7.pdb
+C:\Users\HP\OneDrive - ULEAM\Escritorio\UNIVERSIDAD\TERCER SEMESTRE\Programación orientada a objetos\C#\TareaFinalPrimerParcial\Ejercicio_7\obj\Debug\net6.0\Ejercicio_7.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive - ULEAM\Escritorio\UNIVERSIDAD\TERCER SEMESTRE\Programación orientada a objetos\C#\TareaFinalPrimerParcial\Ejercicio_7\obj\Debug\net6.0\Ejercicio_7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive - ULEAM\Escritorio\UNIVERSIDAD\TERCER SEMESTRE\Programación orientada a objetos\C#\TareaFinalPrimerParcial\Ejercicio_7\obj\Debug\net6.0\Ejercicio_7.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive - ULEAM\Escritorio\UNIVERSIDAD\TERCER SEMESTRE\Programación orientada a objetos\C#\TareaFinalPrimerParcial\Ejercicio_7\obj\Debug\net6.0\Ejercicio_7.AssemblyInfo.cs
+C:\Users\HP\OneDrive - ULEAM\Escritorio\UNIVERSIDAD\TERCER SEMESTRE\Programación orientada a objetos\C#\TareaFinalPrimerParcial\Ejercicio_7\obj\Debug\net6.0\Ejercicio_7.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive - ULEAM\Escritorio\UNIVERSIDAD\TERCER SEMESTRE\Programación orientada a objetos\C#\TareaFinalPrimerParcial\Ejercicio_7\obj\Debug\net6.0\Ejercicio_7.dll
+C:\Users\HP\OneDrive - ULEAM\Escritorio\UNIVERSIDAD\TERCER SEMESTRE\Programación orientada a objetos\C#\TareaFinalPrimerParcial\Ejercicio_7\obj\Debug\net6.0\refint\Ejercicio_7.dll
+C:\Users\HP\OneDrive - ULEAM\Escritorio\UNIVERSIDAD\TERCER SEMESTRE\Programación orientada a objetos\C#\TareaFinalPrimerParcial\Ejercicio_7\obj\Debug\net6.0\Ejercicio_7.pdb
+C:\Users\HP\OneDrive - ULEAM\Escritorio\UNIVERSIDAD\TERCER SEMESTRE\Programación orientada a objetos\C#\TareaFinalPrimerParcial\Ejercicio_7\obj\Debug\net6.0\Ejercicio_7.genruntimeconfig.cache
+C:\Users\HP\OneDrive - ULEAM\Escritorio\UNIVERSIDAD\TERCER SEMESTRE\Programación orientada a objetos\C#\TareaFinalPrimerParcial\Ejercicio_7\obj\Debug\net6.0\ref\Ejercicio_7.dll
